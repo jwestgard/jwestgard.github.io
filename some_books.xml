@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Books on Josh's Desk</title>
+        <link>http://jwestgard.github.io</link>
+        <description>These are some books on Josh's Desk</description>
+        <language>en-us</language>
+        <atom:link href="http://jwestgard.github.io/some_books.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Learning the vi and Vim Editors</title>
+            <link>http://shop.oreilly.com/product/9780596529833.do</link>
+            <description>For nearly 30 years, vi has been the standard editor for Unix and Linux, and since 1986 this book has been the leading vi guide.</description>
+            <guid isPermaLink="true">http://jwestgard.github.io/e4236013-e33d-4892-af0b-db06bbec45fc</guid>
+        </item>
+        <item>
+            <title>Flask Web Development: Developing Web Applications with Python</title>
+            <link>http://shop.oreilly.com/product/0636920031116.do</link>
+            <description>Take full creative control of your web applications with Flask, the Python-based microframework.</description>
+            <guid isPermaLink="true">http://jwestgard.github.io/c00b7424-4358-4fba-bee3-130771a80538</guid>
+        </item>
+    </channel>
+</rss>
